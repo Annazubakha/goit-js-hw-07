@@ -1,1 +1,1 @@
-# goit-js-hw-07
+https://annazubakha.github.io/goit-js-hw-07/
